@@ -47,6 +47,7 @@ enum ferris_tap_dances {
 #define TABCTL  LCTL_T(KC_TAB) // Ctrl when held, TAB when tapped;
 #define CTAB   LCTL(KC_TAB)
 #define ATAB   LALT(KC_TAB)
+#define RTAB   RALT(KC_TAB)
 
 //aliases for Navigation layer
 #define CBSPC LCTL(KC_BSPC)  // delete whole word
