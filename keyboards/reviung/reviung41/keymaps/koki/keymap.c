@@ -221,7 +221,7 @@ static bool is_caps_lock_on = false;
           ),
       [_ADJUST] = LAYOUT_reviung41(
       //,-----------------------------------------------------.                    ,-----------------------------------------------------.
-          XXXXXXX, XXXXXXX,   XXXXXXX, XXXXXXX, XXXXXXX, RGB_MODE_PLAIN,               XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+          XXXXXXX, XXXXXXX,   KC_NO, XXXXXXX, XXXXXXX, RGB_MODE_PLAIN,               XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
       //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
           RGB_TOG, RGB_HUI, RGB_SAI, RGB_VAI, XXXXXXX, XXXXXXX,                      XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
       //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
